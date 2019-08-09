@@ -1,0 +1,39 @@
+D:\Student\DataBaseIO\DataBaseIO\bin\Debug\DataBaseIO.exe
+D:\Student\DataBaseIO\DataBaseIO\bin\Debug\DataBaseIO.pdb
+D:\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.frmMain.resources
+D:\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.Properties.Resources.resources
+D:\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.csproj.GenerateResource.Cache
+D:\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.exe
+D:\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.pdb
+d:\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.csprojResolveAssemblyReference.cache
+I:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.exe
+I:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.pdb
+I:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\bin\Debug\DataBaseIO.exe
+I:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\bin\Debug\DataBaseIO.pdb
+I:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.csprojResolveAssemblyReference.cache
+I:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.frmMain.resources
+I:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.Properties.Resources.resources
+I:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.csproj.GenerateResource.Cache
+I:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.frmInput.resources
+h:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.exe
+h:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.pdb
+L:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.exe
+L:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.pdb
+L:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\bin\Debug\DataBaseIO.exe
+L:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\bin\Debug\DataBaseIO.pdb
+L:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.csprojResolveAssemblyReference.cache
+L:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.frmInput.resources
+L:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.frmMain.resources
+L:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.Properties.Resources.resources
+L:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.csproj.GenerateResource.Cache
+g:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.exe
+g:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.pdb
+g:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\bin\Debug\DataBaseIO.exe
+g:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\bin\Debug\DataBaseIO.pdb
+g:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.csprojResolveAssemblyReference.cache
+g:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.frmInput.resources
+g:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.frmMain.resources
+g:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.Properties.Resources.resources
+g:\@Для студентов\ИОСУ\Student\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.csproj.GenerateResource.Cache
+i:\@@Учёный секретарь\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.exe
+i:\@@Учёный секретарь\DataBaseIO\DataBaseIO\obj\x86\Debug\DataBaseIO.pdb
